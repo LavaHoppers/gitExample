@@ -1,2 +1,3 @@
-boss,NetID,LastName,FirstName
-employee, bwolf7, Brandon, Wolf
+role,NetID,LastName,FirstName
+boss,jdhopwood,hopwood,joshua
+employee,bwolf7,Brandon,Wolf
